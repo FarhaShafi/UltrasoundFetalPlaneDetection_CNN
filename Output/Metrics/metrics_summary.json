@@ -1,0 +1,11 @@
+{
+    "test_loss": 0.09204301238059998,
+    "test_accuracy": 0.9658119678497314,
+    "macro_average_specificity": 0.9919446157188216,
+    "average_confidence_score": 0.9681854248046875,
+    "specificity_Fetal abdomen": 0.9879679144385026,
+    "specificity_Fetal brain": 0.9980353634577603,
+    "specificity_Fetal femur": 0.986013986013986,
+    "specificity_Fetal thorax": 0.9922720247295209,
+    "specificity_Maternal cervix": 0.9954337899543378
+}
