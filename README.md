@@ -30,3 +30,5 @@ Repository contains the following folder:
         This contains the saved model, metrics, plots and predictions obtained while training.
     - US_FetalPlaneDetection_Flask
         Flask implemented front-end for testing the model.
+
+<img width="822" height="867" alt="image" src="https://github.com/user-attachments/assets/125133c6-fde0-4035-8aef-b03a4ca5ce51" />
